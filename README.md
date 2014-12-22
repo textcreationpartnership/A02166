@@ -35,14 +35,22 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The repentance of Robert Greene Maister of Artes. Wherein by himselfe is laid open his loose life, w
+
+1. The Printer to the Gentlemen Readers.
+
+1. To all the wanton youths of England: Robert Greene wisheth reformation of wilfulnes.
+
 #####Body#####
 
-1. Certaine Cauiats sent by Robert Greene to a frend of his (as a farewell:) written with his owne hande.
+1. The Repentance of Robert Greene, Maister of Arts.
 
-1. The manner of the death and last end of Robert Greene Maister of Artes.
+1. The life and death of Robert Greene Maister of Artes.
 
-1. Greenes Prayer in the time of his sicknesse.
+    _ Certaine Cauiats sent by Robert Greene to a frend of his (as a farewell:) written with his owne hande.
+
+    _ The manner of the death and last end of Robert Greene Maister of Artes.
+
+    _ Greenes Prayer in the time of his sicknesse.
 
 **Types of content**
 
